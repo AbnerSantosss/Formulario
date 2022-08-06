@@ -1,4 +1,4 @@
-# 📝✨ Formulário Simples e Super Responsivo ✨📝
+# 📝✨ Formulário Simples e Responsivo ✨📝
 
 > Esse exercicio foi feito para fixar o conceito de formulário, está sem a parte de js, o proximo objetivo é introduzir o javascript para enviar os dados para uma tabela, bem legal não é? 
 ### Conceitos trabalhados:

@@ -6,7 +6,7 @@
 > > * Variáves Css para melhor manutenção (Estou trabalhando bastante nas definições de variaveis Css para ficar cada vez mais alto-declarativas (pensando em um outro desenvolvedor no futuro)
 > > * trabalhei a semântica HTML, podendo assim ter no formulario o fieldset e legend, para os motores de busca terem facilidade de ler.
 
-#### Veja Online : https://formularioabner.netlify.app/
+  * #### <p > Veja o projeto online clicando <a href="https://formularioabner.netlify.app/">aqui</a></p>
 Preview ⬇️⬇️  
 
 
